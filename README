@@ -1,1 +1,3 @@
 clone of Guy Rutenberg's Markov Chain text generator using the Boost C++ library
+
+the binary file is compiled against libboost 1.58, and depends on the libboost-program-options package in order to function.
