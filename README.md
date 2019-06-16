@@ -4,7 +4,7 @@ A clone of Guy Rutenberg's Markov Chain Text Generator using the Boost C++ libra
 
 The [binary file](https://github.com/bongochong/mctext-0.2/raw/master/binary/mctext) was compiled against libboost 1.58, and depends on the libboost-program-options package. It is suitable for any LiGNUx environment with that package installed.
 
-Usage: `mctext -w[number of words] -s[number of steps] [FILE]`
+Usage: `mctext -w[number of words] -s[number of steps] [FILE]`  
 Flags are optional and text can be piped into it instead of a file.
 
 It's an interesting markov chain tool, and fun to play around with.
