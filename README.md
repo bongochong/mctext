@@ -7,6 +7,11 @@ The [binary file](https://github.com/bongochong/mctext-0.2/raw/master/binary/mct
 Usage: `mctext -w[number of words] -s[number of steps] [FILE]`  
 Flags are optional and text can be piped into it instead of a file.
 
+To compile it yourself, download this repo, cd into it and do the following:  
+`./configure` + any options you might want to include  
+`make`  
+Easy.
+
 It's an interesting markov chain tool, and fun to play around with.
 
 Original is here: https://www.guyrutenberg.com/2008/04/30/mctext-02-a-markov-chain-text-generator/ This repo exists in order to keep that nice little program accessible and open to future updates.
