@@ -1,8 +1,5 @@
 *.h linguist-language=C++
 *.am linguist-language=C++
 *.in linguist-language=C++
+*.m4 linguist-language=makefile
 *.sh linguist-detectable=false
-install-sh linguist-detectable=false
-depcomp linguist-detectable=false
-missing linguist-detectable=false
-configure linguist-detectable=false
