@@ -2,7 +2,7 @@
 
 A clone of Guy Rutenberg's Markov Chain Text Generator using the Boost C++ library.
 
-The [latest binary file](https://github.com/bongochong/mctext/raw/master/binary/mctext) was compiled against libboost 1.73 in an x86_64 environment, and depends on the `boost-program-options` (or `libboost-program-options`) package. It is suitable for any x86_64 GNU/Linux distribution with that package installed. There are old binary files in this repository as well, for those with different versions of boost.
+The [latest binary file](https://github.com/bongochong/mctext/raw/master/binary/mctext) was compiled against libboost 1.73 in an x86_64 environment, and depends on the `boost-program-options` (or `libboost-program-options`) package. It is suitable for any x86_64 GNU/Linux distribution with that package installed. There are older binary files in this repository as well, for those with different versions of boost.
 
 Usage: `mctext -w[number of words] -s[number of steps] [FILE]`  
 Flags are optional.
