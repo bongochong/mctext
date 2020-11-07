@@ -1,3 +1,5 @@
+*.am linguist-language=C++
+*.in linguist-language=C++
 *.sh linguist-detectable=false
 install-sh linguist-detectable=false
 depcomp linguist-detectable=false
