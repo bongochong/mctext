@@ -1,3 +1,4 @@
+*.h linguist-language=C++
 *.am linguist-language=C++
 *.in linguist-language=C++
 *.sh linguist-detectable=false
