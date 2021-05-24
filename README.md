@@ -7,7 +7,7 @@ The [latest binary file](https://github.com/bongochong/mctext/releases/download/
 Usage: `mctext -w[number of words] -s[number of steps] [FILE]`  
 Flags are optional.
 
-To compile it yourself, download this repo, ensure that the boost development libraries and the g++ compiler are installed, cd into the directory, and do the following:  
+To compile it yourself, download this repo, ensure that the boost development libraries and the gcc c++ compiler are installed, cd into the directory, and do the following:  
 `./configure` + any options you might want to include  
 `make`  
 Easy.
